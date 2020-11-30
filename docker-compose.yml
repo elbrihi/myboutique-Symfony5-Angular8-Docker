@@ -27,6 +27,8 @@ services:
             - ${APP_PATH}:/var/www/app
         depends_on: 
             - db
+        #links: 
+            #- db:db
 
     nginx:
         build: docker/nginx
