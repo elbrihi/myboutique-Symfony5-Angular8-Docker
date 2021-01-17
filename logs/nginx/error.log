@@ -134,3 +134,11 @@
 2020/12/16 17:29:16 [alert] 1#0: worker process 7 exited on signal 9
 2020/12/16 17:29:16 [alert] 1#0: worker process 8 exited on signal 9
 2020/12/16 17:29:16 [alert] 1#0: worker process 9 exited on signal 9
+2020/12/25 15:50:49 [alert] 1#0: worker process 6 exited on signal 9
+2020/12/25 15:50:49 [alert] 1#0: worker process 7 exited on signal 9
+2020/12/25 15:50:49 [alert] 1#0: worker process 8 exited on signal 9
+2020/12/25 15:50:49 [alert] 1#0: worker process 9 exited on signal 9
+2021/01/10 01:00:25 [alert] 1#0: worker process 8 exited on signal 9
+2021/01/10 01:00:25 [alert] 1#0: worker process 6 exited on signal 9
+2021/01/10 01:00:25 [alert] 1#0: worker process 7 exited on signal 9
+2021/01/10 01:00:25 [alert] 1#0: worker process 9 exited on signal 9
